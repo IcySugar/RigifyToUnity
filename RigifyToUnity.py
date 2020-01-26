@@ -3,9 +3,9 @@
 # feel free to modify and republish.
 # This is modified from ChichigeBobo's RigifyToUnreal script and he deserves all the credit
 #########################################################################
-# RigifyToUnity: ver 1.0
-# Environment : Blender 2.79, Unity 2017.2
-# Author : IcedSugar (Original: ChichigeBobo)
+# RigifyToUnity: ver 2.0
+# Environment : Blender 2.8, Unity 2019
+# Author : IcySugar (Original: ChichigeBobo)
 #########################################################################
 # What this script does -------
 #   *Determine whether the rig is standard rigify or PitchiPoy by counting bones.
@@ -37,7 +37,7 @@
 
 #==========  CUSTOMIZATION  ===========================================
 #Change to your favorite name.
-newRigName = 'Female'  
+newRigName = 'Unrigified'  
 newActionNamePrefix = 'Unrigify_' 
 newActionNameSuffix = ''
 
